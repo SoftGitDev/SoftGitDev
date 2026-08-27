@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Holographic Stats Display -->
+<!--
 <div align="center">
   <h2>🔮 SoftGitDev Statistics Matrix</h2>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SoftGitDev&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&border_radius=15&ring_color=6B4BF7" width="49%" />
   <img src="https://streak-stats.demolab.com?user=SoftGitDev&theme=radical&background=0D1117&hide_border=true&border_radius=15&ring=6B4BF7" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftGitDev&stats_format=bytes" width="49%" />
 </div>
+-->
